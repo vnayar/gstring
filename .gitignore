@@ -9,6 +9,7 @@ gstring.dll
 gstring.a
 gstring.lib
 gstring-test-*
+libgstring.a
 *.exe
 *.pdb
 *.o
