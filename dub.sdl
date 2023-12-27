@@ -1,5 +1,5 @@
 name "gstring"
-description "A basic library providing unicode-aware strings."
+description "Grapheme-strings, unicode-capable strings which index by visible character position."
 authors "Vijay Nayar"
 copyright "Copyright © 2023, Vijay Nayar"
 license "LGPL-3.0-or-later"
